@@ -1,6 +1,6 @@
 import numpy as np
 
-class Pilhas:
+class PilhasIguais:
         def __init__(self, capacidade1, capacidade2):
             self.capacidade1 = capacidade1
             self.topo1 = -1
@@ -45,7 +45,7 @@ class Pilhas:
 
 
 
-pilhas = Pilhas(4,4)
+pilhas = PilhasIguais(4,4)
 pilhas.empilhar(1,1)
 pilhas.empilhar(1,1)
 pilhas.empilhar(1,1)
