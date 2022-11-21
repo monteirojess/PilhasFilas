@@ -1,3 +1,7 @@
+***** Grupo : Jessica Monteiro, Angela Bernadelli, Thomaz Choairy, Jorge Choairy, Gabriel Santana e Márcio Alex *****
+
+
+
 1) Escrever uma função que receba como parâmetro uma pilha.
 A função deve retornar o maior elemento da pilha. A passagem deve
 ser por valor ou referência?
