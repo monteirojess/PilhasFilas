@@ -1,4 +1,4 @@
-class Pilha:
+class MaiorElementoPilha:
     def __init__(self,capacidade):
         self.capacidade = capacidade
         self.pilha = []
@@ -31,7 +31,7 @@ class Pilha:
 
 
 
-pilha = Pilha(4)
+pilha = MaiorElementoPilha(4)
 pilha.empilhar(300)
 pilha.empilhar(400)
 pilha.empilhar(2000)
